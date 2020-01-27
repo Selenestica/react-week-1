@@ -1,0 +1,7 @@
+.comments-likes-div {
+    display: flex;
+}
+
+.comments-likes-text {
+    margin: 0.5rem;
+}
