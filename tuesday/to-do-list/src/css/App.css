@@ -1,0 +1,19 @@
+.main-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.add-task-div {
+    margin-top: 1rem;
+}
+
+.add-task-input {
+    font-size: 3rem;
+}
+
+.add-task-button {
+    font-size: 3rem;
+    margin-left: 1rem;
+    background-color: lightgreen;
+}

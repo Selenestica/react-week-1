@@ -1,0 +1,27 @@
+.task-text {
+    font-size: 2rem;
+}
+
+.task-div {
+    display: flex;
+}
+
+.check-box-input {
+    margin: 3rem 1rem 3rem 1rem;
+    font-size: 3rem;
+}
+
+.pending-items-div {
+    background-color: lightpink;
+    padding: 0rem 12rem;
+    margin: 3rem;
+}
+
+.list-number-text {
+    font-size: 2rem;
+}
+
+.mark-complete-text {
+    font-size: 0.5rem;
+    margin-top: 3.2rem;
+}
