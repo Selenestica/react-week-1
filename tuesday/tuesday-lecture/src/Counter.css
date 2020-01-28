@@ -1,0 +1,37 @@
+.counter-div {
+    display: flex;
+    padding: 3rem;
+    justify-content: center;
+}
+
+#increase-button {
+    background: none;
+    border: none;
+    font-size: 3rem;
+}
+
+#happy-image {
+    width: 10%;
+    height: 10%;
+}
+
+#sad-image {
+    width: 10%;
+}
+
+#decrease-button {
+    background: none;
+    border: none;
+}
+
+#counter-text-div {
+    height: 11rem;
+    width: 11rem;
+    border: 0.01rem solid black;
+    text-align: center;
+}
+
+#counter-text {
+    margin-top: 1.35rem;
+    font-size: 7rem;
+}
