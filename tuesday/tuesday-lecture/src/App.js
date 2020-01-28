@@ -18,6 +18,7 @@ class App extends Component {
   }
 
   //when comp is added to virtual DOM (remember the virt DOM is the hierarchy of components)
+  //this detects whether something was added to a Component
   componentDidMount() {
     this.fetchMovies()
   }
@@ -32,6 +33,7 @@ class App extends Component {
     })
   }
 
+  //detects change on a textbox
   handleChange = (e) => {
     console.log(e.target.value)
     this.setState({
